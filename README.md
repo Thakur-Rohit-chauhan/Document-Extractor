@@ -1,4 +1,4 @@
-# DocXtract
+# Document-Extractor
 
 **Document-Extractor** is a simple Python library that extracts all text, symbols, and image references from `.docx` files. It also unzips the `.docx` structure behind the scenes to access embedded media and content for processing.
 
