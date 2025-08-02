@@ -1,6 +1,6 @@
 # DocXtract
 
-**DocXtract** is a simple Python library that extracts all text, symbols, and image references from `.docx` files. It also unzips the `.docx` structure behind the scenes to access embedded media and content for processing.
+**Document-Extractor** is a simple Python library that extracts all text, symbols, and image references from `.docx` files. It also unzips the `.docx` structure behind the scenes to access embedded media and content for processing.
 
 ---
 
@@ -16,13 +16,13 @@
 ## Installation
 
 ```bash
-pip install DocXtract
+pip install Document-Extractor
 ```
 
 ## Usage
 
 ```bash
-from DocXtract import DocxExtractor
+from Document-Extractor import DocxExtractor
 
 
 extractor = DocxExtractor()
